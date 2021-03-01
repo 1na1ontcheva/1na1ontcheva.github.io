@@ -4,9 +4,9 @@
 
 ### User Guidance
 
-[Video Tutorial on SMS Marketing](/sample_page)
+Video Tutorial on SMS Marketing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LLiI2L_pwHI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Live Webinar on Website Navigation](/pdf/sample_presentation.pdf)
