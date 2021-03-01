@@ -2,7 +2,7 @@
 
 ---
 
-### User Guidance
+### User Assistance
 
 Video Tutorial on SMS Marketing
 
