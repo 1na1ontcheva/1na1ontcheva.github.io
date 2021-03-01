@@ -6,7 +6,7 @@
 
 Video Tutorial on SMS Marketing
 
-_This project involved creating a set of explainer videos that explain how to use a Text Marketing app for eCommerce businesses on Shopify. The process involved writing a script, screen recording and editing using Camtasia and optimizing SEO for the YouTube channel._
+_This project involved creating a set of tutorial videos that explain how to use a Text Marketing app for eCommerce businesses on Shopify. The process involved writing a script, screen recording and editing using Camtasia and optimizing SEO for the YouTube channel._
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LLiI2L_pwHI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
