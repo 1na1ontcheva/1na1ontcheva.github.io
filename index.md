@@ -11,7 +11,7 @@ _This project involved creating a set of tutorial videos, that walk through user
 
 
 ---
-Webinar on Website Navigation
+Website Navigation Webinar
 
 _This project's aim was to familiarize graduate university applicants with the helpful resources and tools available on the Prepadviser preparation platform through a pre-recorded webinar. Planning involved sketching UX flows, review of sections in order of hierarchy, script writing, recording and editing before launching a webinar registration form, and playing the video on GoToWebinar. This allowed to actively engage with participants on the day of the event and promtly answer their questions, directing them to the appropriate link and following up with a personalized email._
 
