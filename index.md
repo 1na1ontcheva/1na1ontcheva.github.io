@@ -20,9 +20,7 @@ _This eBook's target audience was eCommerce businesses who were new to SMS marke
 <a href="https://smsbump.com/knowledge-base" target="_blank">Knowledge Base for Shopify App</a> 
 
 _A series of knowledge base articles were written concisely, covering a wide range of the SMSBump app features.  Images were designed using Sketch and then added to illustrate each step the user must take to complete an action successfuly._
-![image info](./images/KB-SMSBump.png)
-
-[![KB](./images/KB-SMSBump.png)](http://google.com.au/)
+[![KB](./images/KB-SMSBump.png)](https://smsbump.com/knowledge-base)
 
 ---
 <a href="https://www.youtube.com/watch?v=z-eUOMbb7hE&feature=emb_title" target="_blank">Website Navigation Webinar</a> 
@@ -33,19 +31,19 @@ _This project's aim was to familiarize graduate university applicants with the h
 
 
 
+---
 
+### Blogging
+
+- [Podcast](http://example.com/)
+- [Technical Insights](http://example.com/)
 
 ---
 
-### Category Name 2
+### White Papers and Case Studies
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+- [ACC Guide](http://example.com/)
+- [Cybersec Trends 2020](http://example.com/)
+- [Energy Supply Case Study](http://example.com/)
+- [Optimizing Customer Journey Case Study](http://example.com/)
 
