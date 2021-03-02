@@ -58,7 +58,7 @@ _I began by pitching a project proposal to the marketing team, focusing on the b
  
 ---
 
-### White Papers and Case Studies
+### White Papers 
 
 <a href="inaiontcheva.github.io/docs/AccGuide.pdf" target="_blank">Application Takeover Guide</a>
 
@@ -74,14 +74,13 @@ _This was a short gated content piece that was prepared with the effort to infor
 
 <iframe frameborder="0" height="950px" title="2020CyberSecTrends" longdesc="Cybersecurity Trends Brief" name="whitepaper2" scrolling="no" src="inaiontcheva.github.io/docs/AccGuide.pdf" width="100%"></iframe>
 
-<br><br>
-
-<a href="inaiontcheva.github.io/docs/EnergyCaseStudy.pdf" target="_blank">Energy Supply Case Study</a>
+### Case Studies
 
 _Throughout the entire case study creation process, several meetings are conducted with SMEs, delivery managers and project managers to ensure that the information written is thorough and correct. Sales team is contacted to provide insight on any NDA or other agreements. Designers contribute with visual material that is unique for each case study and communicates the brand effectively._
 
-<iframe frameborder="0" height="950px" title="EnergyCS" longdesc="Energy Supply Case Study" name="casestudy1" scrolling="no" src="inaiontcheva.github.io/docs/EnergyCaseStudy.pdf" width="100%"></iframe>
+<a href="inaiontcheva.github.io/docs/EnergyCaseStudy.pdf" target="_blank">Energy Supply Case Study</a>
 
+<iframe frameborder="0" height="950px" title="EnergyCS" longdesc="Energy Supply Case Study" name="casestudy1" scrolling="no" src="inaiontcheva.github.io/docs/EnergyCaseStudy.pdf" width="100%"></iframe>
 
 <br><br>
 
