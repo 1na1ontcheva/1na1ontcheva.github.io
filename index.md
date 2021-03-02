@@ -42,10 +42,7 @@ _This project's aim was to familiarize graduate university applicants with the h
 - [Podcast](http://example.com/)
 I began by pitching a project proposal to the team, focusing on illustrating the benefits of creating a versatile tool that will expand the reach of our company's content, as well as the ability to capture and build a strong relationship with clients. The podcast Ctrl+V was created to engage and strengthen our online presence and community. The episodes deliver valuable, up-to-date information on tech trends and highlight the specter of our solutions and services through guest expert interviews. A Blubrry plugin was installed on Wordpress, so the podcast could be self-hosted.
 
-[![epi1](./images/epi1image.jpg)]
-
-
-  <iframe src="https://www.scalefocus.com/?powerpress_pinw=18648-podcast" style="display:none" id="iframeAudio"></iframe>
+![epi1](./images/epi1image.jpg)
  
 <iframe frameborder="0" height="50px" title="Episode1" name="epi1" scrolling="no" src="https://www.scalefocus.com/?powerpress_pinw=18648-podcast" width="100%"></iframe>
   
