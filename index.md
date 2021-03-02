@@ -62,12 +62,11 @@ _I began by pitching a project proposal to the marketing team, focusing on the b
 
 <a href="inaiontcheva.github.io/docs/AccGuide.pdf" target="_blank">Application Takeover Guide</a>
 
-<embed src="inaiontcheva.github.io/docs/AccGuide.pdf" type="application/pdf">
+_This guide was written as gated content and placed at the end of a blog article, as a supplementary content piece aiming to attract potential leads._
 
 <iframe frameborder="0" height="950px" title="AccGuide" longdesc="App Takeover Guide" name="whitepaper1" scrolling="no" src="inaiontcheva.github.io/docs/AccGuide.pdf" width="100%"></iframe>
 
 
-![Alt](./AccGuide.pdf){width=100% height=400}
 
 
 
