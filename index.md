@@ -72,7 +72,7 @@ _This guide was written as gated content and placed at the end of a related blog
 
 _This was a short gated content piece that was prepared with the effort to inform businesses on the latest cybersecurity trends and extend our service offering as the next step towards protecting their most critical assets. Report research was conducted as well as meetings with SMEs to confirm relevancy of facts and figures._
 
-<iframe frameborder="0" height="950px" title="2020CyberSecTrends" longdesc="Cybersecurity Trends Brief" name="whitepaper2" scrolling="no" src="inaiontcheva.github.io/docs/AccGuide.pdf" width="100%"></iframe>
+<iframe frameborder="0" height="950px" title="2020CyberSecTrends" longdesc="Cybersecurity Trends Brief" name="whitepaper2" scrolling="no" src="inaiontcheva.github.io/docs/2020CybersecurityTrendsOnFocus.pdf" width="100%"></iframe>
 
 <br><br>
 
