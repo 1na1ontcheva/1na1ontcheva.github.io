@@ -15,7 +15,7 @@ _This project involved creating a set of tutorial videos, that walk users throug
 <a href="https://smsbump.com/Text-marketing-campaigns-that-sell.pdf" target="_blank">eBook on Text Campaigns</a> 
 
 _This eBook's target audience was eCommerce businesses who were new to SMS marketing and needed a brief introduction to the method of advertising. Technical tips and tricks were written, and visual aids in the form of digarams were created in order to simplify an otherwise complex process. The eBook was published as gated content on the SMSBump website with the goal to gain subscribers._
-<iframe frameborder="0" height="950px" title="eBook on Text Campaigns" longdesc="Text Marketing Campaigns That Sell" name="eBook" scrolling="no" src="https://smsbump.com/Text-marketing-campaigns-that-sell.pdf" width="100%"></iframe>
+<iframe frameborder="0" height="950px" title="eBook on Text Campaigns" longdesc="Text Marketing Campaigns That Sell" name="eBook" scrolling="no" src="inaiontcheva.github.io/docs/ebooksmsmarketing.pdf" width="100%"></iframe>
 
 ---
 <br><br>
