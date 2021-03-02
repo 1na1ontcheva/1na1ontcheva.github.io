@@ -45,6 +45,9 @@ I began by pitching a project proposal to the team, focusing on illustrating the
   
 
 <audio id="episode1" source src="epi1.mp3"></audio><button onclick="playAudio('episode1')" type="button">Play Episode 1</button>
+
+  <iframe src="epi1.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
+
   
 - [Technical Insights](http://example.com/)
 
