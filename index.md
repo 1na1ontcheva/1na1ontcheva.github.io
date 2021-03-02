@@ -24,7 +24,7 @@ _This project's aim was to familiarize graduate university applicants with the h
 
 
 ---
-Knowledge Base for Shopify App (https://smsbump.com/knowledge-base)
+[Knowledge Base for Shopify App] (https://smsbump.com/knowledge-base)
 <img src="KB-SMSBump.png"/>
 ![KB](KB-SMSBump.png)
 
@@ -42,7 +42,3 @@ Knowledge Base for Shopify App (https://smsbump.com/knowledge-base)
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
