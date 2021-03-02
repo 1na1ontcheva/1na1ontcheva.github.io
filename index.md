@@ -36,6 +36,7 @@ _This project's aim was to familiarize graduate university applicants with the h
 
 
 ---
+<br><br>
 
 ### Blogging
 
