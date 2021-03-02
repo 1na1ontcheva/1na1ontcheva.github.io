@@ -78,7 +78,7 @@ _This was a short gated content piece that was prepared with the effort to infor
 
 ### Case Studies
 
-_Throughout the entire case study creation process, several meetings are conducted with SMEs and delivery managers to ensure that the information written is thorough and correct. Sales team is contacted to provide insight on any NDA or other agreements. Designers contribute with visual material that is unique for each case study and communicates the brand effectively._
+_Throughout the entire case study creation process, several meetings are conducted with SMEs and delivery managers to ensure that the information written is thorough and correct. Sales team is contacted to provide insight on any NDA or other agreements. Designers contribute with visual material that is unique for each case study and communicates the brand effectively. Good teamwork produces professional results._
 
 <a href="inaiontcheva.github.io/docs/EnergyCaseStudy.pdf" target="_blank">Energy Supply Case Study</a>
 
