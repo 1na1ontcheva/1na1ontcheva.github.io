@@ -62,7 +62,7 @@ _I began by pitching a project proposal to the marketing team, focusing on the b
 
 <a href="inaiontcheva.github.io/docs/AccGuide.pdf" target="_blank">Application Takeover Guide</a>
 
-_This guide was written as gated content and placed at the end of a blog article, as a supplementary content piece aiming to attract potential leads._
+_This guide was written as gated content and placed at the end of a related blog article, as a supplementary content piece aiming to attract potential leads through a contact form. Content was written and edited in relation to the structure presented by the design team._
 
 <iframe frameborder="0" height="950px" title="AccGuide" longdesc="App Takeover Guide" name="whitepaper1" scrolling="no" src="inaiontcheva.github.io/docs/AccGuide.pdf" width="100%"></iframe>
 
