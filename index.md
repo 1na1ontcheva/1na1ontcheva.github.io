@@ -39,6 +39,7 @@ _This project's aim was to familiarize graduate university applicants with the h
 ### Blogging
 
 - [Podcast](http://example.com/)
+  [Play](/Ctrl+V - Episode 1 Managing Vulnerabilities and Unlocking Opportunities in a Time of Crisis (1).mp3)
 - [Technical Insights](http://example.com/)
 
 ---
