@@ -44,7 +44,7 @@ I began by pitching a project proposal to the team, focusing on illustrating the
   [Play Episode 1](/epi1.mp3)
   
 
-<audio id="episode1" src="epi1.mp3"></audio><button onclick="playAudio('episode1')" type="button">play</button>
+<audio id="episode1" src="epi1.mp3"></audio><button onclick="playAudio('episode1')" type="button">Play Episode 1</button>
   
 - [Technical Insights](http://example.com/)
 
