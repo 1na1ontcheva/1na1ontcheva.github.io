@@ -22,6 +22,7 @@ _This eBook's target audience was eCommerce businesses who were new to SMS marke
 _A series of knowledge base articles were written concisely, covering a wide range of the SMSBump app features.  Images were designed using Sketch and then added to illustrate each step the user must take to complete an action successfuly._
 ![image info](./images/KB-SMSBump.png)
 
+[![KB](./images/KB-SMSBump.png)](http://google.com.au/)
 
 ---
 <a href="https://www.youtube.com/watch?v=z-eUOMbb7hE&feature=emb_title" target="_blank">Website Navigation Webinar</a> 
