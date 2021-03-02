@@ -47,7 +47,6 @@ I began by pitching a project proposal to the team, focusing on illustrating the
 <iframe src="https://www.scalefocus.com/?powerpress_pinw=18648-podcast" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
-<iframe frameborder="0"title="Episode1" name="epi1" scrolling="no" src="https://www.scalefocus.com/?powerpress_pinw=18648-podcast" width="100%"></iframe>
   
 - [Technical Insights](http://example.com/)
 
