@@ -64,6 +64,9 @@ _I began by pitching a project proposal to the marketing team, focusing on the b
 
 <embed src="inaiontcheva.github.io/docs/AccGuide.pdf" type="application/pdf">
 
+<iframe frameborder="0" height="950px" title="AccGuide" longdesc="App Takeover Guide" name="whitepaper1" scrolling="no" src="inaiontcheva.github.io/docs/AccGuide.pdf" width="100%"></iframe>
+
+
 ![Alt](./AccGuide.pdf){width=100% height=400}
 
 
