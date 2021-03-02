@@ -66,11 +66,13 @@ _This guide was written as gated content and placed at the end of a related blog
 
 <iframe frameborder="0" height="950px" title="AccGuide" longdesc="App Takeover Guide" name="whitepaper1" scrolling="no" src="inaiontcheva.github.io/docs/AccGuide.pdf" width="100%"></iframe>
 
+<a href="inaiontcheva.github.io/docs/2020CybersecrutiyTrendsOnFocus.pdf" target="_blank">Cybersecurity Trends Brief</a>
 
+_This was a short gated content piece that was prepared with the effort to inform businesses on the latest cybersecurity trends and extend our service offering as the next step towards protecting their most critical assets. Report research was conducted as well as meetings with SMEs to confirm relevancy of facts and figures._
 
+<a href="inaiontcheva.github.io/docs/EnergyCaseStudy.pdf" target="_blank">Energy Supply Case Study</a>
 
+_Throughout the entire case study creation process, several meetings are conducted with SMEs, delivery managers and project managers to ensure that the information written is thorough and correct. Sales team is contacted to provide insight on any NDA or other agreements. Designers contribute with visual material that is unique for each case study and communicates the brand effectively._
 
-- [Cybersec Trends 2020](http://example.com/)
-- [Energy Supply Case Study](http://example.com/)
-- [Optimizing Customer Journey Case Study](http://example.com/)
+<a href="inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf" target="_blank">Apigee Case Study</a>
 
