@@ -47,6 +47,8 @@ I began by pitching a project proposal to the team, focusing on illustrating the
 <audio id="episode1" source src="https://www.scalefocus.com/?powerpress_pinw=18648-podcast"></audio><button onclick="playAudio('episode1')" type="button">Play Episode 1</button>
 
   <iframe src="epi1.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
+  
+  <iframe frameborder="0" height="50px" title="eBook on Text Campaigns" longdesc="Text Marketing Campaigns That Sell" name="eBook" scrolling="no" src="https://www.scalefocus.com/?powerpress_pinw=18648-podcast" width="100%"></iframe>
 
   
 - [Technical Insights](http://example.com/)
