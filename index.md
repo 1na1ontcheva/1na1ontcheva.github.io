@@ -44,7 +44,7 @@ I began by pitching a project proposal to the team, focusing on illustrating the
 
 ![epi1](./images/epi1image.jpg)
  
-<iframe frameborder="0" title="Episode1" name="epi1" scrolling="no" src="https://www.scalefocus.com/?powerpress_pinw=18648-podcast" autoplay="false" autostart="false" width="100%"></iframe>
+<iframe frameborder="0" <video> title="Episode1" name="epi1" scrolling="no" src="https://www.scalefocus.com/?powerpress_pinw=18648-podcast" autoplay="false" autostart="false" width="100%"></video></iframe>
   
 - [Technical Insights](http://example.com/)
 
