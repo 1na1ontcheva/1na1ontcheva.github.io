@@ -24,8 +24,8 @@ _This project's aim was to familiarize graduate university applicants with the h
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Knowledge Base for Shopify App (https://smsbump.com/knowledge-base)
+<img src="KB-SMSBump.png"/>
 
 ---
 
