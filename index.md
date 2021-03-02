@@ -60,12 +60,13 @@ _I began by pitching a project proposal to the marketing team, focusing on the b
 
 ### White Papers and Case Studies
 
-- [ACC Guide](http://example.com/)
-<embed src="https://github.com/inaiontcheva/inaiontcheva.github.io/blob/master/docs/AccGuide.pdf" type="application/pdf">
+<a href="inaiontcheva.github.io/docs/AccGuide.pdf" target="_blank">Application Takeover Guide</a>
+
+<embed src="inaiontcheva.github.io/docs/AccGuide.pdf" type="application/pdf">
 
 ![Alt](./AccGuide.pdf){width=100% height=400}
 
-<a href="inaiontcheva.github.io/docs/AccGuide.pdf" target="_blank">Application Takeover Guide.</a>
+
 
 - [Cybersec Trends 2020](http://example.com/)
 - [Energy Supply Case Study](http://example.com/)
