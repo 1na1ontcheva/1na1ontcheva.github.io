@@ -65,6 +65,8 @@ _I began by pitching a project proposal to the marketing team, focusing on the b
 
 ![Alt](./AccGuide.pdf){width=100% height=400}
 
+<a href="inaiontcheva.github.io/docs/AccGuide.pdf" target="_blank">Application Takeover Guide.</a>
+
 - [Cybersec Trends 2020](http://example.com/)
 - [Energy Supply Case Study](http://example.com/)
 - [Optimizing Customer Journey Case Study](http://example.com/)
