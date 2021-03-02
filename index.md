@@ -18,7 +18,7 @@ _This eBook's target audience was eCommerce businesses who were new to SMS marke
 
 ---
 <a href="https://smsbump.com/knowledge-base">Knowledge Base for Shopify App</a> 
-A series of knowledge base articles were written covering a wide range of the SMSBump app features.  Images were designed using Sketch and then added to illustrate each step the user must take to complete an action successfuly.
+A series of knowledge base articles were written concisely, covering a wide range of the SMSBump app features.  Images were designed using Sketch and then added to illustrate each step the user must take to complete an action successfuly.
 ![image info](./images/KB-SMSBump.png)
 
 
