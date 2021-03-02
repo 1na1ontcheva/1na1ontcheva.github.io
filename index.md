@@ -41,10 +41,10 @@ _This project's aim was to familiarize graduate university applicants with the h
 - [Podcast](http://example.com/)
 I began by pitching a project proposal to the team, focusing on illustrating the benefits of creating a versatile tool that will expand the reach of our company's content, as well as the ability to capture and build a strong relationship with clients. The podcast Ctrl+V was created to engage and strengthen our online presence and community. The episodes deliver valuable, up-to-date information on tech trends and highlight the specter of our solutions and services through guest expert interviews. A Blubrry plugin was installed on Wordpress, so the podcast could be self-hosted.
 
-  [Play](/Ctrl+V - Episode 1 Managing Vulnerabilities and Unlocking Opportunities in a Time of Crisis (1).mp3)
+  [Play Episode 1](/epi1.mp3)
   
 
-<audio id="episode1" src="Ctrl+V - Episode 1 Managing Vulnerabilities and Unlocking Opportunities in a Time of Crisis (1).mp3"></audio><button onclick="playAudio('episode1')" type="button">play</button>
+<audio id="episode1" src="epi1.mp3"></audio><button onclick="playAudio('episode1')" type="button">play</button>
   
 - [Technical Insights](http://example.com/)
 
