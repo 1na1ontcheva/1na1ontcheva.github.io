@@ -34,6 +34,7 @@ _This project's aim was to familiarize graduate university applicants with the h
 
 
 
+
 ---
 
 ### Blogging
@@ -43,9 +44,10 @@ I began by pitching a project proposal to the team, focusing on illustrating the
 
 [![epi1](./images/epi1image.jpg)]
 
+
   <iframe src="https://www.scalefocus.com/?powerpress_pinw=18648-podcast" style="display:none" id="iframeAudio"></iframe>
  
-
+<iframe frameborder="0" height="50px" title="Episode1" name="epi1" scrolling="no" src="https://www.scalefocus.com/?powerpress_pinw=18648-podcast" width="100%"></iframe>
   
 - [Technical Insights](http://example.com/)
 
