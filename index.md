@@ -49,7 +49,7 @@ _I began by pitching a project proposal to the marketing team, focusing on the b
 
 <br><br>
  
- [Technical Insights](https://www.scalefocus.com/insights/tap-into-the-potential-of-energy-data-analytics-using-streaming)
+ [Technical Insights](https://www.scalefocus.com/post/tap-into-the-potential-of-energy-data-analytics-using-streaming)
  
  _The Technical Insights section is a set of blog articles which analyze the challenges businesses are facing today, and introduce different ways technologies can help solve them. The blog post process starts by reviewing the campaign calendar and receiving a brief for a new content piece. Then, it moves to collaborating on topics with the sales team, and establishing the topic. Meetings are booked for SME interviews in which services and solutions are discussed and linked to the topic. What follows is the writing and editing of drafts, before a final one gets approved to be published in Wordpress and shared on social media._
  
