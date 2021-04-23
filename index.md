@@ -88,6 +88,8 @@ _Throughout the entire case study creation process, several meetings are conduct
 
 <a href="inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf" target="_blank">Apigee Case Study</a>
 
+[Apigee Case Study](http://inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf)
+
 <iframe frameborder="0" height="950px" title="ApigeeCS" name="casestudy2" scrolling="no" src="inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf" width="100%"></iframe>
 
 
