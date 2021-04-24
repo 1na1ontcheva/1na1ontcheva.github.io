@@ -43,6 +43,8 @@ _I began by pitching a project proposal to the marketing team, focusing on the b
 
 ![epi1](./images/epi1image.jpg)
 
+[Episode 1](/CtrlVepisode1.mp3)
+
 
 
 <br><br>
