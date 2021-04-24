@@ -80,5 +80,5 @@ _Throughout the entire case study creation process, several meetings are conduct
 
 <br>
 
-[Apigee Case Study](http://inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf)
+[Apigee Case Study](http://github.com/inaiontcheva/inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf)
 
