@@ -47,9 +47,9 @@ _I began by pitching a project proposal to the marketing team, focusing on the b
 
 <br><br>
  
- [Technical Insights](https://www.scalefocus.com/post/tap-into-the-potential-of-energy-data-analytics-using-streaming)
+<a href="https://www.scalefocus.com/post/tap-into-the-potential-of-energy-data-analytics-using-streaming" target="_blank">Technology Insights</a>
  
- _The Technical Insights section is a set of blog articles which analyze the challenges businesses are facing today, and introduce different ways technologies can help solve them. The blog post process starts by reviewing the campaign calendar and receiving a brief for a new content piece. Then, it moves to collaborating on topics with the sales team, and establishing the topic. Meetings are booked for SME interviews in which services and solutions are discussed and linked to the topic. What follows is the writing and editing of drafts, before a final one gets approved to be published in Wordpress and shared on social media._
+ _The Technology Insights section is a set of blog articles which analyze the challenges businesses are facing today, and introduce different ways technologies can help solve them. The blog post process starts by reviewing the campaign calendar and receiving a brief for a new content piece. Then, it moves to collaborating on topics with the sales team, and establishing the topic. Meetings are booked for SME interviews in which services and solutions are discussed and linked to the topic. What follows is the writing and editing of drafts, before a final one gets approved to be published in Wordpress and shared on social media._
  
  [![articleheader](./images/Energy-Article-Visuals_header.jpg)](https://www.scalefocus.com/insights/tap-into-the-potential-of-energy-data-analytics-using-streaming)
  
@@ -76,9 +76,9 @@ _This was a short gated content piece that was prepared with the effort to infor
 
 _Throughout the entire case study creation process, several meetings are conducted with SMEs and delivery managers to ensure that the information written is thorough and correct. Sales team is contacted to provide insight on any NDA or other agreements. Designers contribute with visual material that is unique for each case study and communicates the brand effectively. Good teamwork produces professional results._
 
-[Energy Supply Case Study](http://inaiontcheva.github.io/docs/EnergyCaseStudy.pdf) target="_blank"
+<a href=(http://inaiontcheva.github.io/docs/EnergyCaseStudy.pdf) target="_blank">Energy Supply Case Study</a>
 
 <br>
 
-[Apigee Case Study](http://inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf) target="_blank"
+<a href=(http://inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf) target="_blank">Apigee Case Study</a>
 
