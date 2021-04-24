@@ -78,7 +78,7 @@ _Throughout the entire case study creation process, several meetings are conduct
 
 [Energy Supply Case Study](http://inaiontcheva.github.io/docs/EnergyCaseStudy.pdf)
 
-<br><br>
+<br>
 
 [Apigee Case Study](http://inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf)
 
