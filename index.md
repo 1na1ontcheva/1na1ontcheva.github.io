@@ -42,7 +42,7 @@ _This project's aim was to familiarize graduate university applicants with the h
 
 _I began by pitching a project proposal to the marketing team, focusing on the benefits of creating a versatile tool that will expand the reach of our company's content, as well as the ability to capture and build a strong relationship with clients. The podcast Ctrl+V was created to engage and strengthen our online presence and community. The episodes deliver valuable, up-to-date information on tech trends and highlight the specter of our solutions and services through guest expert interviews. A Blubrry plugin was installed on Wordpress, so the podcast could be self-hosted._
 
-![epi1](./images/epi1image.jpg)
+ [![articleheader](./images/epi1image.jpg)](/CtrlVepisode1.mp3)
 
 
 
