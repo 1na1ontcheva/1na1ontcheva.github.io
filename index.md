@@ -37,13 +37,13 @@ _This project's aim was to familiarize graduate university applicants with the h
 
 ### Blogging
 
-[Ctrl+V Podcast](https://www.scalefocus.com/blog/podcast)
+
+[Ctrl+V Podcast](/CtrlVepisode1.mp3)
 
 _I began by pitching a project proposal to the marketing team, focusing on the benefits of creating a versatile tool that will expand the reach of our company's content, as well as the ability to capture and build a strong relationship with clients. The podcast Ctrl+V was created to engage and strengthen our online presence and community. The episodes deliver valuable, up-to-date information on tech trends and highlight the specter of our solutions and services through guest expert interviews. A Blubrry plugin was installed on Wordpress, so the podcast could be self-hosted._
 
 ![epi1](./images/epi1image.jpg)
 
-[Episode 1](/CtrlVepisode1.mp3)
 
 
 
@@ -78,9 +78,9 @@ _This was a short gated content piece that was prepared with the effort to infor
 
 _Throughout the entire case study creation process, several meetings are conducted with SMEs and delivery managers to ensure that the information written is thorough and correct. Sales team is contacted to provide insight on any NDA or other agreements. Designers contribute with visual material that is unique for each case study and communicates the brand effectively. Good teamwork produces professional results._
 
-<a href=(http://inaiontcheva.github.io/docs/EnergyCaseStudy.pdf) target="_blank">Energy Supply Case Study</a>
+<a href="http://inaiontcheva.github.io/docs/EnergyCaseStudy.pdf" target="_blank">Energy Supply Case Study</a>
 
 <br>
 
-<a href=(http://inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf) target="_blank">Apigee Case Study</a>
+<a href="http://inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf" target="_blank">Apigee Case Study</a>
 
