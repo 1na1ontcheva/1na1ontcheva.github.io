@@ -65,7 +65,7 @@ _This guide was written as gated content and placed at the end of a related blog
 
 <br><br>
 
-<a href="inaiontcheva.github.io/docs/2020CybersecurityTrendsOnFocus.pdf" target="_blank">Cybersecurity Trends Brief</a>
+<a href="http://inaiontcheva.github.io/docs/2020CybersecurityTrendsOnFocus.pdf" target="_blank">Cybersecurity Trends Brief</a>
 
 _This was a short gated content piece that was prepared with the effort to inform businesses on the latest cybersecurity trends and extend our service offering as the next step towards protecting their most critical assets. Report research was conducted as well as meetings with SMEs to confirm relevancy of facts and figures._
 
