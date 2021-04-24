@@ -33,8 +33,6 @@ _This project's aim was to familiarize graduate university applicants with the h
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z-eUOMbb7hE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-
 ---
 <br><br>
 
@@ -46,6 +44,7 @@ _I began by pitching a project proposal to the marketing team, focusing on the b
 
 ![epi1](./images/epi1image.jpg)
 <iframe src="https://www.scalefocus.com/?powerpress_pinw=18648-podcast" frameborder="0" width="500" height="50" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <br><br>
  
@@ -64,7 +63,6 @@ _I began by pitching a project proposal to the marketing team, focusing on the b
 
 _This guide was written as gated content and placed at the end of a related blog article, as a supplementary content piece aiming to attract potential leads through a contact form. Content was written and edited in relation to the structure presented by the design team._
 
-<iframe frameborder="0" height="950px" title="AccGuide" longdesc="App Takeover Guide" name="whitepaper1" scrolling="no" src="inaiontcheva.github.io/docs/AccGuide.pdf" width="100%"></iframe>
 
 <br><br>
 
@@ -72,7 +70,6 @@ _This guide was written as gated content and placed at the end of a related blog
 
 _This was a short gated content piece that was prepared with the effort to inform businesses on the latest cybersecurity trends and extend our service offering as the next step towards protecting their most critical assets. Report research was conducted as well as meetings with SMEs to confirm relevancy of facts and figures._
 
-<iframe frameborder="0" height="950px" title="2020CyberSecTrends" longdesc="Cybersecurity Trends Brief" name="whitepaper2" scrolling="no" src="inaiontcheva.github.io/docs/2020CybersecurityTrendsOnFocus.pdf" width="100%"></iframe>
 
 <br><br>
 
@@ -80,17 +77,13 @@ _This was a short gated content piece that was prepared with the effort to infor
 
 _Throughout the entire case study creation process, several meetings are conducted with SMEs and delivery managers to ensure that the information written is thorough and correct. Sales team is contacted to provide insight on any NDA or other agreements. Designers contribute with visual material that is unique for each case study and communicates the brand effectively. Good teamwork produces professional results._
 
-<a href="inaiontcheva.github.io/docs/EnergyCaseStudy.pdf" target="_blank">Energy Supply Case Study</a>
-
-<iframe frameborder="0" height="950px" title="EnergyCS" longdesc="Energy Supply Case Study" name="casestudy1" scrolling="no" src="inaiontcheva.github.io/docs/EnergyCaseStudy.pdf" width="100%"></iframe>
+[Energy Supply Case Study](http://inaiontcheva.github.io/docs/EnergyCaseStudy.pdf)
 
 <br><br>
 
-<a href="inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf" target="_blank">Apigee Case Study</a>
-
 [Apigee Case Study](http://inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf)
 
-<iframe frameborder="0" height="950px" title="ApigeeCS" name="casestudy2" scrolling="no" src="inaiontcheva.github.io/docs/ApigeeCaseStudy.pdf" width="100%"></iframe>
+
 
 
 
